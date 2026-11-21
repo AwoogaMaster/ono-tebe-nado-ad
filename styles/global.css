@@ -27,6 +27,7 @@ blockquote {
 
 a {
   color: inherit;
+  text-decoration-thickness: 1px;
 }
 
 img {
@@ -35,4 +36,8 @@ img {
 
 button {
   font: inherit;
+}
+
+html {
+  scroll-behavior: smooth;
 }
