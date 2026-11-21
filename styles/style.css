@@ -106,17 +106,17 @@
   box-sizing: border-box;
 }
 
-.title-1{
+.title-1 {
   align-self: flex-start;
   width: 286px;
 }
 
-.title-2{
+.title-2 {
   align-self: center;
   width: 339px;
 }
 
-.title-3{
+.title-3 {
   align-self: flex-end;
   width: 387px;
 }
@@ -180,7 +180,6 @@
 }
 
 .card {
-  display: block;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -205,7 +204,7 @@
     url(../images/card-lot-02.jpg);
 }
 
-.lot3{
+.lot3 {
   background-image: 
     linear-gradient(rgba(0,0,0, 0.6), rgba(0,0,0, 0.6)),
     url(../images/card-lot-03.jpg);
